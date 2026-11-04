@@ -1,0 +1,11 @@
+# Install a CUDA-compatible PyTorch build for your system before or with this file.
+torch==2.7.0
+torchaudio==2.7.0
+fairseq==0.12.2
+librosa==0.9.2
+numpy==1.26.4
+scipy==1.11.4
+scikit-learn==1.6.1
+speechbrain==1.0.3
+tqdm==4.67.1
+matplotlib==3.8.4

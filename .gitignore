@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.pth
+*.pt
+*.pkl
+checkpoints/
+results/
+runs/
+slurm-*.out
+slurm-multiclass-*.out
+hf_release/
+HF_RELEASE_LOCAL_SOURCES.md
